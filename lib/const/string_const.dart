@@ -3,4 +3,4 @@
 /// Github: https://github.com/nb312
 /// Email: niebin312@gmail.com
 ///
-const FLUTTER_OPEN = 'Flutter Open';
+const FLUTTER_OPEN = 'Learning Flutter Widgets';

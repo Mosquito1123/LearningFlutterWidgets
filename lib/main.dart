@@ -12,6 +12,7 @@ class FlutterOpenApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: FLUTTER_OPEN,
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primaryColor: BLUE_DEEP,
         accentColor: RED,
